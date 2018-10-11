@@ -1,0 +1,3 @@
+rootProject.name = 'GetLatitudeAndLongitude'
+
+include ':app'
